@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project-modules id="moduleCoreId" project-version="1.5.0">
-    <wb-module deploy-name="org.springintegration.web">
+    <wb-module deploy-name="springintegration-web">
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/resources"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
         <wb-resource deploy-path="/" source-path="/src/main/webapp"/>
-        <property name="context-root" value="org.springintegration.web"/>
-        <property name="java-output-path" value="/org.springintegration.web/target/classes"/>
+        <property name="java-output-path" value="/springintegration-web/target/classes"/>
+        <property name="context-root" value="springintegration-web"/>
     </wb-module>
 </project-modules>
